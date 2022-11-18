@@ -8,3 +8,4 @@ repos:
 EOF
 pre-commit autoupdate
 pre-commit install
+rm .pre-commit-config.yaml
