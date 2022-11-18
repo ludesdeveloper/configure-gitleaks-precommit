@@ -1,5 +1,7 @@
 # Configure Gitleaks Pre-Commit
 
+> This script contains "git init"
+
 ### **How To**
 
 1. You can execute only using curl command below
